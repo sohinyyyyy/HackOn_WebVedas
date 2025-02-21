@@ -1,3 +1,4 @@
+[![bSuan.gif](https://s3.gifyu.com/images/bSuan.gif)](https://gifyu.com/image/bSuan)
 # ♻Vasudha-Eco
 
 Vasudha (वसुधा) means Earth in Sanskrit.
