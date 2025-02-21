@@ -12,13 +12,9 @@ VasudhaEco App aims to improve recycling rates and reduce landfill waste by ince
  
  This system fosters transparency, encourages citizen participation, and streamlines the waste collection process.
 
-
-
-
-
 ## 🚀Features
 
-- **User App:**
+- **User App:** https://www.figma.com/design/yk7m6K6k63Yi7qND0NTiXe/Untitled?node-id=11-12&t=VLjEjs1U7CDDZKHz-1 
 
 * **Waste Logging:** 📝
     * Categorize recyclable waste (paper, plastic, metal, glass, etc.).
