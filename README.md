@@ -15,7 +15,7 @@ VasudhaEco App aims to improve recycling rates and reduce landfill waste by ince
 ## 🚀Features
 
 - **User App:** https://www.figma.com/design/yk7m6K6k63Yi7qND0NTiXe/Untitled?node-id=11-12&t=VLjEjs1U7CDDZKHz-1 
-
+- **Presentation:** https://www.canva.com/design/DAGftcgi1A4/GkHCKk2VVk9GGEaZzozPTw/view?utm_content=DAGftcgi1A4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7703ceb225 
 * **Waste Logging:** 📝
     * Categorize recyclable waste (paper, plastic, metal, glass, etc.).
     * Input estimated weight or volume of waste. ⚖️
@@ -46,13 +46,10 @@ VasudhaEco App aims to improve recycling rates and reduce landfill waste by ince
     * Manage user accounts and information.
     * Communicate with users regarding collection schedules or issues.
 
-
-
 ## ❔Why Vasudha-Eco
 The reward system directly motivates people to recycle more. Turning recycling into a rewarding activity increases participation and reduces the amount of waste going to landfills.
 
 This type of app creates a win-win situation. Citizens are motivated to recycle more, and waste management departments gain valuable data and improve their operations. The result is a cleaner environment, a more sustainable future, and a stronger connection between the community and its waste management system.
-
 
 
 ## 🤝Contributing to open source
